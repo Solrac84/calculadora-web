@@ -104,3 +104,6 @@ fetch('/calcular', {
 ## Licencia
 
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
+
+## Enlace Web
+https://calculadora-web-modular-wwre.onrender.com
